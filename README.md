@@ -23,10 +23,7 @@ Matplotlib / Seaborn (for visualization)
 
 📂 How to Run
 bash
-Copy
 Edit
-# Clone the repository
-git clone https://github.com/yourusername/employee-salary-prediction.git
 
 # Navigate to the project directory
 cd employee-salary-prediction
@@ -37,10 +34,6 @@ pip install -r requirements.txt
 # Run the script (Jupyter notebook or .py file)
 📈 Model(s) Used
 Linear Regression
-
-Decision Tree Regressor (optional)
-
-Random Forest (optional)
 
 🎯 Use Case
 Useful for HR analytics, salary planning, or exploring data-driven compensation strategies in a business environment.
